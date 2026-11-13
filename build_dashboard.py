@@ -13,5 +13,8 @@ subprocess.run([sys.executable, os.path.join(here, 'build_data.py'), root, js, a
 tpl = open(os.path.join(here, 'template.html'), encoding='utf-8').read()
 data = open(js, encoding='utf-8').read().replace('</', '<\\/')
 out = os.path.join(here, 'BIO_INTEL_MOB_KPI_Dashboard.html')
-open(out, 'w', encoding='utf-8').write(tpl.replace('/*__DATA__*/null', data))
-print('written', out)
+html = tpl.replace('/*__DATA__*/null', data)
+open(out, 'w', encoding='utf-8').write(html)
+# GitHub Pages entry point
+open(os.path.join(here, 'index.html'), 'w', encoding='utf-8').write(html)
+print('written', out, 'and index.html')
