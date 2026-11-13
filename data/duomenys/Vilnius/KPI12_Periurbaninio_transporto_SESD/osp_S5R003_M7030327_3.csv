@@ -1,0 +1,1041 @@
+﻿reisasM5820213,savivaldybesRegdb,MATVNT,TIME_PERIOD,value,OBS_STATUS,reisasM5820213_pavadinimas,savivaldybesRegdb_pavadinimas,MATVNT_pavadinimas
+1,10,tukst_kilometru,2002,61459.77,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2002,49667.06,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2002,1575.59,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2002,285801.393,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2002,61459.77,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2002,55031.02,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2002,45013.4,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2002,1221.8,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2002,265816.1450000001,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2002,55031.02,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2002,1198.2,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2002,541.7,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2002,,nebuvo,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2002,4880.8,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2002,1198.2,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2002,5230.55,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2002,4111.96,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2002,353.79,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2002,15104.548,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2002,5230.55,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2002,9335.9,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2002,8508.7,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2002,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2002,53794.86,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2002,9335.9,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2002,10269.42,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2002,1837.1,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2002,1221.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2002,61352.676,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2002,10269.42,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2002,32361.0,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2002,31903.5,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2002,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2002,142926.409,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2002,32361.0,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2002,3064.7,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2002,2764.1,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2002,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2002,7742.1,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2002,3064.7,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+2,LT01,tukst_kilometru,2013,58691.9,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2013,488.8,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2013,425.9,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2013,10.2,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2013,4771.0,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2013,488.8,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2013,12359.1,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2013,11535.2,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2013,490.8,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2013,29303.3,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2013,12359.1,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2013,11423.8,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2013,11354.5,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2013,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2013,55659.5,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2013,11423.8,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2013,12395.9,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2013,1170.7,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2013,3443.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2013,55660.6,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2013,12395.9,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2013,30522.8,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2013,30111.0,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2013,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2013,96814.0,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2013,30522.8,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2013,4349.4,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2013,4210.4,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2013,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2013,5739.2,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2013,4349.4,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2013,71539.8,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2013,58807.7,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2013,3944.5,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2013,247947.6,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2013,71539.8,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2013,58691.9,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2013,46846.6,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2013,3443.5,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2013,213873.3,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+1,10,tukst_kilometru,2010,61804.3,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2010,50714.4,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2010,2880.9,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2010,246001.2,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2010,61804.3,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2010,55247.1,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2010,45736.2,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2010,2163.3,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2010,216949.1,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2010,55247.1,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2010,970.9,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2010,561.7,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2010,50.5,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2010,6721.6,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2010,970.9,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2010,5586.3,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2010,4416.5,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2010,667.1,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2010,22330.5,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2010,5586.3,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2010,10772.7,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2010,10643.2,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2010,24.0,,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2010,52558.4,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2010,10772.7,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2010,11005.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2010,2323.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2010,2018.3,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2010,56969.7,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2010,11005.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2010,29546.3,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2010,29133.0,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2010,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2010,101535.0,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2010,29546.3,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2010,3922.6,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2010,3636.2,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2010,121.0,,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2010,5886.0,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2010,3922.6,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,41,tukst_kilometru,2011,4577.2,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2011,252054.7,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2011,67134.3,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2011,58391.9,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2011,47846.5,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2011,3543.5,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2011,221505.4,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2011,58391.9,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2011,807.5,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2011,307.6,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2011,96.2,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2011,6648.4,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2011,807.5,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2011,7934.9,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2011,6345.3,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2011,937.5,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2011,23900.9,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2011,7934.9,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2011,11246.0,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2011,11113.0,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2011,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2011,54079.7,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2011,11246.0,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2011,11722.4,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2011,1873.7,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2011,3511.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2011,59093.6,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2011,11722.4,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2011,31369.7,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2011,30955.8,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2011,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2011,102309.5,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2011,31369.7,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2011,4053.8,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2011,3904.0,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2011,32.0,,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2011,6022.6,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2011,4053.8,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2011,67134.3,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2011,54499.4,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,10,tukst_kilometru,2000,45762.05,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2000,35154.43,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2000,797.27,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2000,235734.357,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2000,45762.05,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2000,40142.33,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2000,30459.81,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2000,560.0,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2000,217614.26399999997,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2000,40142.33,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2000,793.15,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2000,465.4,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2000,,nebuvo,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2000,5549.39,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2000,793.15,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2000,4826.57,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2000,4229.22,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2000,237.27,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2000,12570.713,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2000,4826.57,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2000,6070.5,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2000,5115.3,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2000,56.9,,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2000,48673.73,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2000,6070.5,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2000,10119.82,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2000,2140.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2000,503.1,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2000,55348.99600000001,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2000,10119.82,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2000,21471.91,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2000,20936.51,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2000,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2000,106843.78800000002,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2000,21471.91,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2000,2480.1,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2000,2267.2,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2000,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2000,6747.75,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2000,2480.1,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+2,00,tukst_kilometru,2006,312561.172,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2006,70847.4,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2006,647.45,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2006,350.3,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2006,12.3,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2006,28859.991,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2006,6087.358,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2006,11590.98,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2006,10968.88,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2006,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2006,74320.8,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,13,tukst_kilometru,2006,6584.9,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2006,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2006,10842.89,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2006,6840.3,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+21,LT01,tukst_kilometru,2006,11590.98,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2006,11894.953,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2006,3339.796,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2006,1611.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2006,72271.45699999998,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2006,11894.953,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2006,40521.166999999994,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2006,40079.967,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2006,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2006,155126.025,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2006,40521.166999999994,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2006,6840.3,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+1,10,tukst_kilometru,2006,77582.208,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2006,66452.831,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2006,1630.9,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2006,349556.859,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2006,77582.208,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2006,70847.4,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2006,60973.543,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2006,1611.8,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2006,8135.696,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2006,647.45,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2006,6087.358,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2006,5128.988,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2006,6.8,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+1,13,tukst_kilometru,2004,62524.952,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2004,1538.6,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2004,382509.858,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2004,75734.18800000001,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2004,67789.853,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2004,55978.817,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2004,1537.6,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2004,298598.422,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2004,67789.853,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2004,1238.43,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2004,651.43,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2004,,nebuvo,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2004,7829.957000000001,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2004,1238.43,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2004,6705.905,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2004,5894.705,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2004,1.0,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2004,76081.47899999999,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2004,6705.905,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2004,11390.38,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2004,10481.58,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2004,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2004,59889.88,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2004,11390.38,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2004,13396.311000000002,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2004,3330.511,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2004,1537.6,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2004,73996.08,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2004,13396.311000000002,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2004,36281.189,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2004,35813.789,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2004,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2004,152861.589,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2004,36281.189,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2004,6721.973,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2004,6352.937,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2004,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2004,11850.873,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2004,6721.973,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2004,75734.18800000001,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,10,tukst_kilometru,2007,73345.6,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2007,60027.5,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2007,3806.2,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2007,323173.7,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2007,73345.6,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2007,67221.3,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2007,55523.7,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2007,3485.2,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2007,287335.9,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2007,67221.3,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2007,1266.2,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2007,596.5,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2007,78.7,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2007,11560.8,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2007,1266.2,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2007,4858.1,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2007,3907.3,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2007,242.3,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2007,24277.0,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2007,4858.1,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2007,11164.0,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2007,10728.9,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2007,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2007,75284.2,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2007,11164.0,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2007,11867.6,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2007,1287.7,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2007,3485.2,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2007,70960.6,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2007,11867.6,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2007,37873.7,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2007,37400.8,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2007,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2007,131604.6,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2007,37873.7,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2007,6316.0,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2007,6106.3,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2007,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2007,9486.5,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2007,6316.0,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,00,tukst_kilometru,2008,67263.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2008,12852.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2008,34411.8,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2008,33962.9,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2008,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2008,118088.3,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2008,34411.8,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2008,6287.4,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2008,6187.4,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2008,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+1,10,tukst_kilometru,2008,73321.9,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2008,59466.7,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2008,3560.3,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2008,283712.2,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2008,73321.9,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2008,65368.7,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2008,53676.1,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2008,2897.0,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2008,251900.5,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2008,65368.7,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2008,1845.0,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2008,922.6,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2008,85.2,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2008,9236.5,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2008,1845.0,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2008,6108.2,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2008,4868.0,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2008,578.1,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2008,22575.2,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2008,6108.2,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2008,11817.0,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2008,11331.4,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2008,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2008,57860.3,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2008,11817.0,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2008,12852.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2008,2194.4,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2008,2897.0,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2008,8688.1,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2008,6287.4,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2009,61312.4,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2009,49823.4,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2009,2795.1,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2009,252729.2,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2009,61312.4,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2009,55960.2,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2009,45989.5,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2009,2205.8,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2009,228312.8,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2009,55960.2,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2009,1119.8,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2009,668.0,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2009,70.4,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2009,7509.1,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2009,1119.8,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2009,4232.4,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2009,3165.9,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2009,518.9,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2009,16907.3,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2009,4232.4,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2009,10779.9,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2009,10510.0,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2009,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2009,54888.5,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2009,10779.9,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2009,11025.7,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2009,1880.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2009,2205.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2009,59741.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2009,11025.7,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2009,30089.0,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2009,29657.0,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2009,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2009,107894.3,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2009,30089.0,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2009,4065.6,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2009,3942.0,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2009,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2009,5788.2,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2009,4065.6,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2012,68426.5,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2012,56237.3,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2012,4346.7,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2012,246300.4,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2012,68426.5,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2012,57320.0,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2012,46731.0,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2012,3697.3,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2012,214423.3,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2012,57320.0,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2012,622.5,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2012,267.2,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2012,48.4,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2012,4675.7,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2012,622.5,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2012,10484.0,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2012,9239.1,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2012,601.0,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2012,27201.4,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2012,10484.0,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2012,11622.5,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2012,11552.5,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2012,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2012,54807.2,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2012,11622.5,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2012,12002.1,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2012,2015.1,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2012,3697.3,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2012,57964.6,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2012,12002.1,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2012,29719.3,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2012,29312.3,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2012,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2012,95995.8,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2012,29719.3,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2012,3976.1,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2012,3851.1,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2012,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2012,5655.7,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2012,3976.1,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,00,tukst_kilometru,2001,6448.5,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2001,2288.3,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2001,51277.67799999999,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2001,40899.878,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2001,850.2,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2001,260753.6,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2001,51277.67799999999,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2001,45665.68800000001,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2001,36365.188,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2001,613.8,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2001,240557.699,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2001,45665.68800000001,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2001,1002.61,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2001,607.11,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2001,,nebuvo,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2001,7276.597999999999,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2001,1002.61,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2001,4609.38,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2001,3927.58,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2001,236.0,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2001,12919.252,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2001,4609.38,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2001,7057.4,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2001,6215.4,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2001,13.0,,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2001,50383.48,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2001,7057.4,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2001,9507.2,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2001,1804.4,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2001,600.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2001,61929.17600000001,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2001,9507.2,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2001,26812.788,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2001,26319.888,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2001,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2001,121796.543,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2001,26812.788,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2001,2288.3,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2001,2025.5,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2001,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+1,10,tukst_kilometru,2005,79636.161,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2005,67545.59,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2005,1496.2,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2005,383576.58200000005,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2005,79636.161,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2005,72003.291,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2005,61412.12,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2005,1493.2,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2005,340398.29,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2005,72003.291,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2005,800.7,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2005,305.8,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2005,3.0,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2005,11935.215,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2005,800.7,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2005,6832.17,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2005,5827.67,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2005,,nebuvo,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2005,31243.077000000005,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2005,6832.17,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2005,11093.56,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2005,10299.26,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2005,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2005,60718.224,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2005,11093.56,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2005,12613.191,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2005,3553.1,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2005,1408.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2005,79594.08799999999,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2005,12613.191,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2005,40437.56,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2005,39882.26,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2005,84.4,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2005,187223.598,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2005,40437.56,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2005,7858.98,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2005,7677.5,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2005,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2005,12862.58,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2005,7858.98,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2003,67028.48,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2003,55310.94,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2003,1051.2,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2003,319103.25399999996,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2003,67028.48,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2003,62114.44,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2003,51640.2,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2003,972.5,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2003,299572.76,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2003,62114.44,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2003,702.6,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2003,261.0,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2003,,nebuvo,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2003,4635.43,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2003,702.6,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2003,4211.44,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2003,3409.74,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2003,78.7,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2003,14895.063999999998,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2003,4211.44,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2003,10887.8,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2003,9998.7,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2003,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2003,58004.3,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2003,10887.8,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2003,10142.77,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2003,1261.2,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2003,972.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2003,83072.1,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2003,10142.77,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2003,36855.7,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2003,36395.3,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2003,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2003,148888.841,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2003,36855.7,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2003,4228.17,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2003,3985.0,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2003,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2003,9607.57,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2003,4228.17,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2014,74510.3,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2014,60504.5,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2014,5625.500000000001,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2014,254598.10000000003,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2014,74510.3,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2014,61369.4,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2014,48260.5,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2014,5103.000000000001,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2014,219446.1,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2014,61369.4,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2014,383.1,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2014,322.7,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2014,,nebuvo,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2014,5038.7,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2014,383.1,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2014,12757.8,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2014,11921.3,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2014,522.5,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2014,30113.300000000003,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2014,12757.8,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2014,11376.500000000002,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2014,11296.300000000005,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2014,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2014,56567.5,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2014,11376.500000000002,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2014,13668.000000000002,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2014,1129.9,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2014,5103.000000000001,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2014,57965.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2014,13668.000000000002,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2014,30932.499999999996,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2014,30519.9,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2014,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2014,96972.1,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2014,30932.499999999996,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2014,5392.4,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2014,5314.4,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2014,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2014,7940.999999999999,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2014,5392.4,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+4,00,tukst_kilometru,2015,31517.700000000004,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2015,15554.499999999998,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2015,12181.0,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2015,12116.2,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2015,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2015,53774.40000000001,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2015,12181.0,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2015,11865.1,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2015,1297.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2015,3424.9,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2015,53841.30000000002,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2015,11865.1,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2015,29139.300000000003,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2015,28725.2,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2015,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2015,80818.0,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2015,29139.300000000003,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2015,4846.200000000001,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2015,4674.900000000001,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2015,112.5,,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2015,9219.8,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2015,4846.200000000001,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2015,75804.40000000001,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2015,61573.8,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2015,4744.8,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2015,235287.9,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2015,75804.40000000001,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2015,58031.60000000001,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2015,46813.80000000001,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2015,3537.4,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2015,197653.50000000003,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2015,58031.60000000001,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2015,2218.3,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2015,723.2,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2015,,nebuvo,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2015,6116.700000000001,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2015,2218.3,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2015,15554.499999999998,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2015,14036.8,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2015,1207.4,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+1,10,tukst_kilometru,2016,78553.1,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2016,64445.100000000006,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2016,5474.200000000001,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2016,243520.89999999997,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2016,78553.1,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2016,60460.100000000006,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2016,49042.4,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2016,3325.0,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2016,203263.99999999997,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2016,60460.100000000006,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2016,1077.4,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2016,832.2,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2016,62.3,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2016,6137.100000000001,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2016,1077.4,,Specialus reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2016,17015.600000000002,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2016,14570.5,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2016,2086.9,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2016,34119.80000000001,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2016,17015.600000000002,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2016,12288.7,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2016,12228.8,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2016,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2016,54902.7,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2016,12288.7,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2016,12112.300000000005,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2016,1349.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2016,3245.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2016,54736.2,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2016,12112.300000000005,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2016,30251.300000000003,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2016,29836.4,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2016,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2016,82537.4,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2016,30251.300000000003,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2016,5807.8,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2016,5627.400000000001,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2016,79.5,,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2016,11087.7,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2016,5807.8,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,00,tukst_kilometru,2017,249667.49999999997,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2017,85203.6,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2017,85203.6,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2017,72526.4,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2017,4405.900000000001,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2017,201671.39999999997,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2017,62592.10000000001,,Reguliarus reisas,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2017,62592.10000000001,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2017,51688.5,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2017,3238.8,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2017,5923.599999999999,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2017,584.7,,Specialus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2017,584.7,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2017,475.8,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2017,36.0,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2017,42072.50000000001,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2017,22026.800000000003,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2017,22026.800000000003,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2017,20362.1,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2017,1131.1,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2017,54890.2,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2017,12682.500000000002,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2017,12682.500000000002,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2017,12623.000000000002,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2017,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2017,53674.89999999999,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2017,12528.6,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2017,12528.6,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2017,2225.7,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2017,3238.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2017,81670.50000000001,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2017,30412.999999999996,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2017,30412.999999999996,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2017,29998.8,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2017,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2017,11435.8,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2017,6967.999999999999,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2017,6967.999999999999,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2017,6840.999999999999,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2017,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2018,246651.29999999993,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2018,87904.40000000002,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2018,87904.40000000002,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2018,75574.8,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2018,4360.3,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2018,195896.3,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2018,62582.3,,Reguliarus reisas,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2018,62582.3,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2018,51832.0,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2018,3382.4,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2018,5698.399999999999,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2018,453.2,,Specialus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2018,453.2,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2018,247.7,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2018,146.0,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2018,45056.60000000001,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2018,24868.900000000005,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2018,24868.900000000005,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2018,23495.10000000001,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2018,831.9,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2018,52057.69999999998,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2018,12014.800000000005,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2018,12014.800000000005,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2018,11952.400000000003,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2018,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2018,51976.600000000006,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2018,11338.500000000002,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2018,11338.500000000002,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2018,1189.3,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2018,3382.4,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2018,81275.70000000001,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2018,32113.8,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2018,32113.8,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2018,31705.1,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2018,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2018,10586.3,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2018,7115.200000000001,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2018,7115.200000000001,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2018,6985.200000000001,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2018,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2019,192348.0000000001,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2019,64943.2,,Reguliarus reisas,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2019,64943.2,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2019,54746.8,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2019,3228.7,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2019,8197.100000000002,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2019,430.0,,Specialus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2019,430.0,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2019,227.2,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2019,144.0,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2019,49711.100000000006,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2019,25808.6,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2019,25808.6,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2019,24445.4,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2019,944.6,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2019,51388.40000000001,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2019,12047.8,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2019,12047.8,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2019,11728.9,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2019,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2019,51461.400000000016,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2019,12149.9,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2019,12149.9,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2019,2793.4,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2019,3228.7,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2019,79462.7,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2019,33809.8,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2019,33809.8,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2019,33412.8,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2019,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2019,10035.500000000002,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2019,6935.700000000001,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2019,6935.700000000001,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2019,6811.700000000001,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2019,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2019,250256.19999999992,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2019,91181.80000000002,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2019,91181.80000000002,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2019,79419.4,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2019,4317.299999999999,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2020,153103.60599999997,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2020,52870.1,,Reguliarus reisas,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2020,52870.1,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2020,44946.49999999999,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2020,2814.2,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2020,12897.240000000002,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2020,3197.299999999999,,Specialus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2020,3197.299999999999,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2020,1679.7,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2020,67.1,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2020,17603.305999999997,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2020,8028.850000000001,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2020,8028.850000000001,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2020,6683.280000000002,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2020,332.07,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2020,36395.099999999984,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2020,8538.700000000003,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2020,8538.700000000003,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2020,8330.300000000001,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2020,9.9,,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2020,39626.67600000001,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2020,8883.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2020,8883.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2020,1481.9,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2020,2804.2,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2020,72924.52999999996,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2020,32003.199999999997,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2020,32003.199999999997,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2020,31715.0,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2020,0.1,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2020,4157.3,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2020,3444.7,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2020,3444.7,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2020,3419.3,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2020,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2020,183604.15200000015,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2020,64096.24999999998,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2020,64096.24999999998,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2020,53309.47999999999,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2020,3213.369999999999,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2021,168878.90400000007,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2021,58892.93,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2021,58892.93,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2021,50344.73,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2021,3099.9,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2021,140648.70400000003,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2021,49852.70000000001,,Reguliarus reisas,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2021,49852.70000000001,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2021,42736.2,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2021,2571.0,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2021,14258.510000000011,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2021,3338.699999999999,,Specialus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2021,3338.699999999999,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2021,2772.7,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2021,84.2,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2021,13971.690000000017,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2021,5701.530000000001,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2021,5701.530000000001,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2021,4835.83,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2021,444.7,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2021,30983.3,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2021,6112.300000000002,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2021,6112.300000000002,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2021,6042.000000000001,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2021,,,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2021,38537.40400000001,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2021,9494.599999999997,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2021,9494.599999999997,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2021,2803.4,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2021,2571.0,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2021,68027.59999999999,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2021,31235.800000000007,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2021,31235.800000000007,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2021,30886.800000000003,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2021,,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2021,3100.4,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2021,3010.0,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2021,3010.0,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2021,3004.0,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2021,,,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2022,210960.49400000015,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2022,77264.24999999999,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2022,77264.24999999999,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2022,65843.15,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2022,4370.999999999999,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2022,159954.54999999984,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2022,57952.750000000015,,Reguliarus reisas,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2022,57952.750000000015,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2022,49704.050000000025,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2022,2424.8,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2022,21934.92900000002,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2022,4248.9,,Specialus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2022,4248.9,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2022,3482.300000000001,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2022,160.2,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2022,29071.01499999999,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2022,15062.6,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2022,15062.6,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2022,12656.800000000005,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2022,1786.0,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2022,37432.150000000045,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2022,10150.449999999995,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2022,10150.449999999995,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2022,9995.749999999998,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2022,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2022,44222.60000000003,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2022,11250.599999999997,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2022,11250.599999999997,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2022,3593.500000000001,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2022,2424.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2022,73298.00000000004,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2022,32127.6,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2022,32127.6,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2022,31755.4,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2022,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2022,5001.799999999999,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2022,4424.1,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2022,4424.1,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2022,4359.400000000001,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2022,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+1,00,tukst_kilometru,2023,224881.49,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+1,LT01,tukst_kilometru,2023,87989.39,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+1,10,tukst_kilometru,2023,87989.39,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+1,13,tukst_kilometru,2023,76619.2,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2023,3774.79,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+2,00,tukst_kilometru,2023,160455.6,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2023,60478.19,,Reguliarus reisas,Sostinės regionas,tūkst. km
+2,10,tukst_kilometru,2023,60478.19,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2023,51688.5,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+2,41,tukst_kilometru,2023,3245.09,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+3,00,tukst_kilometru,2023,21517.3,,Specialus reisas,Lietuvos Respublika,tūkst. km
+3,LT01,tukst_kilometru,2023,4865.8,,Specialus reisas,Sostinės regionas,tūkst. km
+3,10,tukst_kilometru,2023,4865.8,,Specialus reisas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2023,3402.7,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+3,41,tukst_kilometru,2023,137.7,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+4,00,tukst_kilometru,2023,42908.6,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,LT01,tukst_kilometru,2023,22645.4,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2023,22645.4,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+4,13,tukst_kilometru,2023,21528.0,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+4,41,tukst_kilometru,2023,392.0,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+21,00,tukst_kilometru,2023,35605.89,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2023,9923.89,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2023,9923.89,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+21,13,tukst_kilometru,2023,9824.99,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2023,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2023,43910.49,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2023,13028.2,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+22,10,tukst_kilometru,2023,13028.2,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,13,tukst_kilometru,2023,4812.3,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+22,41,tukst_kilometru,2023,3245.09,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+23,00,tukst_kilometru,2023,75245.7,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+23,LT01,tukst_kilometru,2023,32459.4,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+23,10,tukst_kilometru,2023,32459.4,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+23,13,tukst_kilometru,2023,32070.8,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,41,tukst_kilometru,2023,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,00,tukst_kilometru,2023,5693.49,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,LT01,tukst_kilometru,2023,5066.7,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,10,tukst_kilometru,2023,5066.7,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+24,13,tukst_kilometru,2023,4980.4,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+24,41,tukst_kilometru,2023,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+24,41,tukst_kilometru,2024,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+4,13,tukst_kilometru,2024,22918.6,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2024,3695.6,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+23,41,tukst_kilometru,2024,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,10,tukst_kilometru,2024,13054.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2024,49406.8,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+24,13,tukst_kilometru,2024,3491.4,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2024,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,13,tukst_kilometru,2024,8103.4,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+4,LT01,tukst_kilometru,2024,24046.5,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+3,LT01,tukst_kilometru,2024,2719.2,,Specialus reisas,Sostinės regionas,tūkst. km
+2,41,tukst_kilometru,2024,3364.7,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+1,LT01,tukst_kilometru,2024,85257.0,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2024,8140.9,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,41,tukst_kilometru,2024,3364.7,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2024,46775.6,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2024,13054.8,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,13,tukst_kilometru,2024,73331.40000000001,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+22,13,tukst_kilometru,2024,4458.0,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,LT01,tukst_kilometru,2024,33792.9,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+21,00,tukst_kilometru,2024,33620.3,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2024,8140.9,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,LT01,tukst_kilometru,2024,3502.7,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2024,24046.5,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+2,10,tukst_kilometru,2024,58491.3,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,00,tukst_kilometru,2024,162585.3,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+3,41,tukst_kilometru,2024,132.0,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+1,10,tukst_kilometru,2024,85257.0,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+23,00,tukst_kilometru,2024,77352.09999999999,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,00,tukst_kilometru,2024,4837.3,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2024,58491.3,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,00,tukst_kilometru,2024,17400.8,,Specialus reisas,Lietuvos Respublika,tūkst. km
+24,10,tukst_kilometru,2024,3502.7,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+3,10,tukst_kilometru,2024,2719.2,,Specialus reisas,Vilniaus apskritis,tūkst. km
+1,00,tukst_kilometru,2024,224279.4,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+23,13,tukst_kilometru,2024,33354.0,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,10,tukst_kilometru,2024,33792.9,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2024,1006.0,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+4,00,tukst_kilometru,2024,44293.3,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,41,tukst_kilometru,2024,198.9,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km
+24,41,tukst_kilometru,2025,,nebuvo,Tarptautinio susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+4,13,tukst_kilometru,2025,33415.7,,Užsakomasis reisas,Vilniaus m. sav.,tūkst. km
+1,41,tukst_kilometru,2025,3720.9,,Iš viso pagal reiso tipą,Vilniaus r. sav.,tūkst. km
+23,41,tukst_kilometru,2025,,nebuvo,Vietinio (miesto) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,10,tukst_kilometru,2025,13360.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+2,13,tukst_kilometru,2025,51459.4,,Reguliarus reisas,Vilniaus m. sav.,tūkst. km
+24,13,tukst_kilometru,2025,2878.1,,Tarptautinio susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+21,41,tukst_kilometru,2025,,nebuvo,Tolimojo susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+21,13,tukst_kilometru,2025,7944.9,,Tolimojo susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+4,LT01,tukst_kilometru,2025,34711.0,,Užsakomasis reisas,Sostinės regionas,tūkst. km
+3,LT01,tukst_kilometru,2025,2117.3,,Specialus reisas,Sostinės regionas,tūkst. km
+2,41,tukst_kilometru,2025,3371.0,,Reguliarus reisas,Vilniaus r. sav.,tūkst. km
+1,LT01,tukst_kilometru,2025,97674.5,,Iš viso pagal reiso tipą,Sostinės regionas,tūkst. km
+21,10,tukst_kilometru,2025,7982.099999999999,,Tolimojo susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+22,41,tukst_kilometru,2025,3371.0,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus r. sav.,tūkst. km
+22,00,tukst_kilometru,2025,48100.6,,Vietinio (priemiestinio) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+22,LT01,tukst_kilometru,2025,13360.5,,Vietinio (priemiestinio) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+1,13,tukst_kilometru,2025,85326.30000000002,,Iš viso pagal reiso tipą,Vilniaus m. sav.,tūkst. km
+22,13,tukst_kilometru,2025,4930.4,,Vietinio (priemiestinio) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,LT01,tukst_kilometru,2025,36625.5,,Vietinio (miesto) susisiekimo maršrutas,Sostinės regionas,tūkst. km
+21,00,tukst_kilometru,2025,31971.1,,Tolimojo susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+21,LT01,tukst_kilometru,2025,7982.099999999999,,Tolimojo susisiekimo maršrutas,Sostinės regionas,tūkst. km
+24,LT01,tukst_kilometru,2025,2878.1,,Tarptautinio susisiekimo maršrutas,Sostinės regionas,tūkst. km
+4,10,tukst_kilometru,2025,34711.0,,Užsakomasis reisas,Vilniaus apskritis,tūkst. km
+2,10,tukst_kilometru,2025,60846.2,,Reguliarus reisas,Vilniaus apskritis,tūkst. km
+2,00,tukst_kilometru,2025,165634.8,,Reguliarus reisas,Lietuvos Respublika,tūkst. km
+3,41,tukst_kilometru,2025,106.8,,Specialus reisas,Vilniaus r. sav.,tūkst. km
+1,10,tukst_kilometru,2025,97674.5,,Iš viso pagal reiso tipą,Vilniaus apskritis,tūkst. km
+23,00,tukst_kilometru,2025,80790.9,,Vietinio (miesto) susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+24,00,tukst_kilometru,2025,4772.2,,Tarptautinio susisiekimo maršrutas,Lietuvos Respublika,tūkst. km
+2,LT01,tukst_kilometru,2025,60846.2,,Reguliarus reisas,Sostinės regionas,tūkst. km
+3,00,tukst_kilometru,2025,17422.6,,Specialus reisas,Lietuvos Respublika,tūkst. km
+24,10,tukst_kilometru,2025,2878.1,,Tarptautinio susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+3,10,tukst_kilometru,2025,2117.3,,Specialus reisas,Vilniaus apskritis,tūkst. km
+1,00,tukst_kilometru,2025,238269.9,,Iš viso pagal reiso tipą,Lietuvos Respublika,tūkst. km
+23,13,tukst_kilometru,2025,35706.0,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus m. sav.,tūkst. km
+23,10,tukst_kilometru,2025,36625.5,,Vietinio (miesto) susisiekimo maršrutas,Vilniaus apskritis,tūkst. km
+3,13,tukst_kilometru,2025,451.1999999999999,,Specialus reisas,Vilniaus m. sav.,tūkst. km
+4,00,tukst_kilometru,2025,55212.5,,Užsakomasis reisas,Lietuvos Respublika,tūkst. km
+4,41,tukst_kilometru,2025,243.1,,Užsakomasis reisas,Vilniaus r. sav.,tūkst. km

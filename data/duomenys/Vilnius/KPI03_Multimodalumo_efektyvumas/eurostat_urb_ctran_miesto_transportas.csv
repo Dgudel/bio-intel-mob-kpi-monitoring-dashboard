@@ -1,0 +1,138 @@
+﻿freq,indic_ur,indic_ur_label,cities,cities_label,time,value,status
+A,TT1003V,Share of journeys to work by car -%,LT001C,Vilnius,2004,31.0,
+A,TT1010V,"Share of journeys to work by public transport (rail, metro, bus, tram) -%",LT001C,Vilnius,2004,33.9,
+A,TT1019V,Average time of journey to work - minutes,LT001C,Vilnius,2004,30.0,
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,1991,148.01,
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,1996,202.1,
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2001,319.72,
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2004,370.27,e
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2006,424.27,e
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2007,424.17,e
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2008,437.54,e
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2009,445.38,e
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2011,460.18,e
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2015,335.04,
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2016,345.32,
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2017,352.27,
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2018,363.74,e
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2019,379.33,e
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2020,388.48,e
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2021,407.45,
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2022,413.95,
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2023,417.08,
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2024,406.75,
+A,TT1057I,Number of registered cars per 1000 population,LT001C,Vilnius,2025,425.33,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,1991,89896.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,1996,116877.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2001,177215.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2004,204687.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2006,234858.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2007,235162.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2008,243158.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2009,248593.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2011,246714.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2015,181800.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2016,187678.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2017,192086.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2018,199144.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2019,209440.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2020,218264.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2021,226741.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2022,233060.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2023,244757.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2024,245031.0,
+A,TT1057V,Number of private cars registered,LT001C,Vilnius,2025,258459.0,
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2001,0.97,
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2004,0.99,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2005,0.96,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2006,0.81,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2007,1.23,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2008,0.77,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2009,0.54,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2010,0.39,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2011,0.45,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2012,0.47,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2013,0.48,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2014,0.5,
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2015,0.33,
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2016,0.37,
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2017,0.35,
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2018,0.31,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2019,0.38,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2020,0.2,e
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2021,0.23,
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2022,0.28,
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2023,0.24,
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2024,0.2,
+A,TT1060I,People killed in road accidents per 10000 pop.,LT001C,Vilnius,2025,0.13,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2001,54.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2004,55.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2005,53.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2006,45.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2007,68.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2008,43.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2009,30.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2010,21.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2011,24.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2012,25.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2013,26.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2014,27.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2015,18.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2016,20.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2017,19.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2018,17.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2019,21.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2020,11.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2021,13.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2022,16.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2023,14.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2024,12.0,
+A,TT1060V,Number of deaths in road accidents,LT001C,Vilnius,2025,8.0,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2004,59.0,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2008,80.1,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2011,113.0,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2015,119.3,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2016,119.3,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2017,119.3,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2018,143.8,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2019,152.1,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2020,164.1,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2021,171.4,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2022,190.3,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2023,205.3,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2024,281.9,
+A,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km,LT001C,Vilnius,2025,230.1,
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2001,13.95,
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2004,14.48,
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2008,17.38,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2009,28.96,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2010,31.86,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2011,31.86,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2012,28.96,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2013,28.96,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2014,28.96,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2015,28.96,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2016,28.96,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2017,28.98,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2018,29.0,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2019,29.0,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2020,29.0,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2021,29.0,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2022,29.0,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2023,29.0,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2024,29.0,d
+A,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR,LT001C,Vilnius,2025,45.0,d
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2004,1.76,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2008,3.51,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2011,2.76,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2015,3.53,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2016,3.49,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2017,3.35,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2018,3.4,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2019,3.49,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2020,3.38,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2021,3.45,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2022,4.09,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2023,4.75,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2024,5.78,
+A,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR,LT001C,Vilnius,2025,5.98,

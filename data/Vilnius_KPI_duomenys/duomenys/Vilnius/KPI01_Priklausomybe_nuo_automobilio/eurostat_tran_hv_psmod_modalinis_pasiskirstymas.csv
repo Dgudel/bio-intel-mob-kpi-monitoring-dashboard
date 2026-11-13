@@ -1,0 +1,101 @@
+﻿freq,unit,unit_label,vehicle,vehicle_label,geo,geo_label,time,value,status
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2000,14.6,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2001,14.6,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2002,15.4,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2003,13.1,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2004,12.0,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2005,9.5,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2006,8.5,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2007,8.4,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2008,8.2,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2009,7.1,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2010,7.6,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2011,8.3,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2012,7.3,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2013,7.8,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2014,10.8,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2015,9.9,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2016,9.1,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2017,8.0,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2018,8.5,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2019,8.4,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2020,5.1,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2021,4.5,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2022,6.0,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2023,6.8,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LT,Lithuania,2024,7.9,e
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2000,82.2,e
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2001,82.6,e
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2002,82.0,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2003,85.0,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2004,87.1,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2005,89.8,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2006,90.9,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2007,91.0,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2008,91.2,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2009,92.3,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2010,91.7,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2011,90.8,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2012,91.9,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2013,91.4,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2014,88.3,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2015,89.2,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2016,89.9,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2017,91.1,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2018,90.4,
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2019,90.6,e
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2020,94.2,e
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2021,94.7,e
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2022,92.9,e
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2023,92.1,e
+A,PC,Percentage,CAR,Passenger cars,LT,Lithuania,2024,91.0,e
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2000,3.2,e
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2001,2.8,e
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2002,2.5,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2003,1.9,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2004,1.0,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2005,0.7,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2006,0.6,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2007,0.6,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2008,0.6,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2009,0.6,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2010,0.7,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2011,0.8,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2012,0.7,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2013,0.8,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2014,1.0,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2015,0.9,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2016,1.0,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2017,0.9,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2018,1.1,
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2019,1.0,e
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2020,0.8,e
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2021,0.9,e
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2022,1.1,e
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2023,1.0,e
+A,PC,Percentage,TRN,Trains,LT,Lithuania,2024,1.1,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2000,17.8,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2001,17.4,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2002,18.0,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2003,15.0,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2004,12.9,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2005,10.2,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2006,9.1,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2007,9.0,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2008,8.8,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2009,7.7,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2010,8.3,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2011,9.2,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2012,8.1,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2013,8.6,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2014,11.7,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2015,10.8,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2016,10.1,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2017,8.9,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2018,9.6,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2019,9.4,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2020,5.8,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2021,5.3,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2022,7.1,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2023,7.9,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LT,Lithuania,2024,9.0,e

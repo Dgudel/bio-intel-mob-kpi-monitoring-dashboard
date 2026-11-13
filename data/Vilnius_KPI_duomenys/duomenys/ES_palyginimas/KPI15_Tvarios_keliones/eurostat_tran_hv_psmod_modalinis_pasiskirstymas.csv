@@ -1,0 +1,101 @@
+﻿freq,unit,unit_label,vehicle,vehicle_label,geo,geo_label,time,value,status
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2000,10.5,be
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2001,10.4,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2002,10.2,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2003,10.1,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2004,10.5,be
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2005,10.5,be
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2006,9.9,be
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2007,10.1,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2008,10.3,be
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2009,10.0,be
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2010,11.0,be
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2011,11.0,be
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2012,11.2,be
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2013,10.3,be
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2014,9.9,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2015,9.9,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2016,9.8,be
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2017,9.4,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2018,9.3,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2019,9.4,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2020,7.4,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2021,7.6,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2022,8.5,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2023,8.8,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",EU27_2020,European Union - 27 countries (from 2020),2024,8.6,be
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2000,82.0,be
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2001,82.2,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2002,82.7,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2003,82.9,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2004,82.5,be
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2005,82.4,be
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2006,82.8,be
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2007,82.7,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2008,82.5,be
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2009,82.9,be
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2010,80.3,be
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2011,80.0,be
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2012,79.6,be
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2013,82.1,be
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2014,82.5,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2015,82.6,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2016,82.7,be
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2017,83.0,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2018,82.9,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2019,82.7,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2020,87.2,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2021,86.7,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2022,83.5,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2023,82.7,e
+A,PC,Percentage,CAR,Passenger cars,EU27_2020,European Union - 27 countries (from 2020),2024,82.5,be
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2000,7.5,be
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2001,7.4,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2002,7.1,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2003,6.9,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2004,7.0,be
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2005,7.1,be
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2006,7.3,be
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2007,7.3,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2008,7.3,be
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2009,7.1,be
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2010,8.7,be
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2011,9.0,be
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2012,9.2,be
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2013,7.6,be
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2014,7.6,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2015,7.6,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2016,7.6,be
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2017,7.6,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2018,7.7,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2019,7.9,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2020,5.5,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2021,5.7,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2022,8.0,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2023,8.5,e
+A,PC,Percentage,TRN,Trains,EU27_2020,European Union - 27 countries (from 2020),2024,8.9,be
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2000,18.0,be
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2001,17.8,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2002,17.3,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2003,17.1,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2004,17.5,be
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2005,17.6,be
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2006,17.2,be
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2007,17.3,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2008,17.5,be
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2009,17.1,be
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2010,19.7,be
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2011,20.0,be
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2012,20.4,be
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2013,17.9,be
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2014,17.5,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2015,17.4,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2016,17.3,be
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2017,17.0,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2018,17.1,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2019,17.3,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2020,12.8,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2021,13.3,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2022,16.5,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2023,17.3,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2024,17.5,be

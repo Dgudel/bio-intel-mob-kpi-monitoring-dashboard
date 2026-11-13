@@ -1,0 +1,10 @@
+﻿Air Quality Station EoI Code,Air Quality Station Name,Sampling Point Id,Air Pollutant,Longitude,Latitude,Air Quality Station Area,Air Quality Station Type,Municipality,Operational Activity Begin,Operational Activity End,Year
+LT00001,"""Vilnius - Senamiestis""",SPO-LT00001_00005_100,PM10,25.28519,54.67763,urban,background,Senamiesio seninija,01/01/2005 00:00:00,,2025.0
+LT00001,"""Vilnius - Senamiestis""",SPO-LT00001_00008_101,NO2,25.28519,54.67763,urban,background,,01/01/2012 00:00:00,,2025.0
+LT00002,"""Vilnius - Lazdynai""",SPO-LT00002_00005_100,PM10,25.21083,54.68611,urban,background,Karolini ki seninija,01/10/2002 00:00:00,,2025.0
+LT00002,"""Vilnius - Lazdynai""",SPO-LT00002_00008_100,NO2,25.21084,54.68611,urban,background,,01/10/2002 00:00:00,,2025.0
+LT00003,"""Vilnius - Zirmunai""",SPO-LT00003_00005_100,PM10,25.28944,54.71528,urban,traffic,,04/10/2002 00:00:00,,2025.0
+LT00003,"""Vilnius - Zirmunai""",SPO-LT00003_00008_100,NO2,25.28944,54.71528,urban,traffic,irmn seninija,04/10/2002 00:00:00,,2025.0
+LT00003,"""Vilnius - Zirmunai""",SPO-LT00003_06001_100,PM2.5,25.28944,54.71528,urban,traffic,irmn seninija,01/01/2007 00:00:00,,2025.0
+LT00004,"""Vilnius - Savanoriu""",SPO-LT00004_00005_100,PM10,25.2489,54.67333,urban,industrial,Vilkpds seninija,01/01/2007 00:00:00,,2025.0
+LT00004,"""Vilnius - Savanoriu""",SPO-LT00004_00008_100,NO2,25.2489,54.67333,urban,industrial,,01/01/2007 00:00:00,,2025.0

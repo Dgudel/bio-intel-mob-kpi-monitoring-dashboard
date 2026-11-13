@@ -1,0 +1,121 @@
+﻿freq,unit,unit_label,vehicle,vehicle_label,geo,geo_label,time,value,status
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,1995,21.5,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,1996,18.1,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,1997,17.8,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,1998,18.1,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,1999,19.4,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2000,18.4,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2001,14.9,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2002,21.2,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2003,21.2,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2004,21.1,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2005,21.1,e
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2006,18.0,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2007,15.7,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2008,16.1,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2009,15.1,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2010,17.1,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2011,18.9,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2012,18.3,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2013,18.0,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2014,17.0,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2015,15.8,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2016,15.1,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2017,14.0,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2018,13.9,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2019,13.7,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2020,9.9,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2021,9.1,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2022,11.7,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2023,11.9,
+A,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",LV,Latvia,2024,12.2,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,1995,67.3,e
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,1996,71.6,e
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,1997,72.8,e
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,1998,74.0,e
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,1999,73.9,e
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2000,76.9,e
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2001,80.4,e
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2002,73.2,e
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2003,73.5,e
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2004,73.8,e
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2005,73.5,e
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2006,76.6,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2007,79.4,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2008,78.7,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2009,80.2,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2010,78.2,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2011,76.2,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2012,76.9,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2013,77.3,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2014,79.0,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2015,80.7,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2016,81.5,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2017,82.7,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2018,82.7,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2019,82.8,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2020,87.7,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2021,88.5,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2022,84.7,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2023,84.2,
+A,PC,Percentage,CAR,Passenger cars,LV,Latvia,2024,83.5,
+A,PC,Percentage,TRN,Trains,LV,Latvia,1995,11.3,e
+A,PC,Percentage,TRN,Trains,LV,Latvia,1996,10.3,e
+A,PC,Percentage,TRN,Trains,LV,Latvia,1997,9.3,e
+A,PC,Percentage,TRN,Trains,LV,Latvia,1998,7.8,e
+A,PC,Percentage,TRN,Trains,LV,Latvia,1999,6.6,e
+A,PC,Percentage,TRN,Trains,LV,Latvia,2000,4.8,e
+A,PC,Percentage,TRN,Trains,LV,Latvia,2001,4.7,e
+A,PC,Percentage,TRN,Trains,LV,Latvia,2002,5.5,e
+A,PC,Percentage,TRN,Trains,LV,Latvia,2003,5.3,e
+A,PC,Percentage,TRN,Trains,LV,Latvia,2004,5.2,e
+A,PC,Percentage,TRN,Trains,LV,Latvia,2005,5.4,e
+A,PC,Percentage,TRN,Trains,LV,Latvia,2006,5.4,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2007,4.9,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2008,5.2,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2009,4.7,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2010,4.7,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2011,4.9,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2012,4.8,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2013,4.7,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2014,4.0,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2015,3.5,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2016,3.4,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2017,3.3,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2018,3.4,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2019,3.4,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2020,2.5,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2021,2.4,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2022,3.6,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2023,3.8,
+A,PC,Percentage,TRN,Trains,LV,Latvia,2024,4.3,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,1995,32.7,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,1996,28.4,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,1997,27.2,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,1998,26.0,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,1999,26.1,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2000,23.1,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2001,19.6,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2002,26.8,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2003,26.5,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2004,26.2,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2005,26.5,e
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2006,23.4,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2007,20.6,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2008,21.3,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2009,19.8,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2010,21.8,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2011,23.8,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2012,23.1,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2013,22.7,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2014,21.0,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2015,19.3,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2016,18.5,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2017,17.3,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2018,17.3,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2019,17.2,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2020,12.3,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2021,11.5,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2022,15.3,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2023,15.8,
+A,PC,Percentage,TRN_BUS_TOT_AVD,"Trains, motor coaches, buses and trolley buses - sum of available data",LV,Latvia,2024,16.5,

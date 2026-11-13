@@ -1,0 +1,661 @@
+﻿savivaldybesRegdb,transtipasM7030320,MATVNT,TIME_PERIOD,value,OBS_STATUS,savivaldybesRegdb_pavadinimas,transtipasM7030320_pavadinimas,MATVNT_pavadinimas
+10,k3,tukst,1996,,neraduomenu,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,1996,,neraduomenu,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,1996,,neraduomenu,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,1996,98700.0,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,1996,89400.0,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,1996,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,1996,361600.0,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,1996,98700.0,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,1996,,neraduomenu,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,1996,,neraduomenu,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,1996,,neraduomenu,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,1996,,neraduomenu,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,1996,,neraduomenu,Sostinės regionas,Autobusai,tūkst.
+00,k5,tukst,1996,,neraduomenu,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,1996,,neraduomenu,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,1996,,neraduomenu,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,1996,,neraduomenu,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,1996,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k3,tukst,1996,,neraduomenu,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,1996,,neraduomenu,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+00,k4,tukst,2002,264962.31,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2002,103219.848,,Sostinės regionas,Autobusai,tūkst.
+41,k5,tukst,2002,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+10,k3,tukst,2002,103219.848,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2002,95328.338,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2002,948.63,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2002,264962.31,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2002,103219.848,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,2002,90409.4,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2002,84828.2,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2002,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2002,182117.73,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2002,90409.4,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2002,103219.848,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2002,95328.338,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2002,948.63,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k5,tukst,2002,,neraduomenu,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2002,,neraduomenu,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,2002,,neraduomenu,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2002,,neraduomenu,Vilniaus m. sav.,Troleibusai,tūkst.
+10,k41,tukst,2013,137290.5,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2013,131301.5,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2013,795.0,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2013,241519.6,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2013,137290.5,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2013,142299.80000000002,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2013,134864.2,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2013,1744.2,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2013,298173.2,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2013,142299.80000000002,,Sostinės regionas,Autobusai,tūkst.
+10,k5,tukst,2013,69558.8,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2013,69558.8,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2013,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k5,tukst,2013,105406.9,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2013,69558.8,,Sostinės regionas,Troleibusai,tūkst.
+10,k3,tukst,2013,211858.60000000003,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2013,204423.0,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2013,1744.2,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2013,403580.1,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2013,211858.60000000003,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,1997,,neraduomenu,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,1997,,neraduomenu,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,1997,,neraduomenu,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,1997,,neraduomenu,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,1997,,neraduomenu,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,1997,115400.0,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,1997,107100.0,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,1997,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,1997,346800.0,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,1997,115400.0,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,1997,,neraduomenu,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,1997,,neraduomenu,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,1997,,neraduomenu,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,1997,,neraduomenu,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,1997,,neraduomenu,Sostinės regionas,Autobusai,tūkst.
+00,k5,tukst,1997,,neraduomenu,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,1997,,neraduomenu,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,1997,,neraduomenu,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,1997,,neraduomenu,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,1997,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+10,k5,tukst,2010,73278.4,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2010,73278.4,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2010,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k5,tukst,2010,111753.6,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2010,73278.4,,Sostinės regionas,Troleibusai,tūkst.
+10,k41,tukst,2010,108575.49,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2010,104482.66,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2010,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2010,212292.26,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+10,k3,tukst,2010,188864.90999999997,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2010,181989.0,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2010,2073.49,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2010,380440.4499999999,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2010,188864.91,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+LT01,k41,tukst,2010,108575.49,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2010,115586.51,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2010,108710.6,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2010,2073.49,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2010,268686.85,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2010,115586.51,,Sostinės regionas,Autobusai,tūkst.
+10,k5,tukst,2011,73721.4,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2011,73721.4,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2011,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k5,tukst,2011,112302.5,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2011,73721.4,,Sostinės regionas,Troleibusai,tūkst.
+10,k3,tukst,2011,193997.82,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2011,186811.81,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,2011,113075.59,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2011,108446.09,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k3,tukst,2011,2443.06,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2011,387124.83,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2011,193997.82,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+41,k41,tukst,2011,559.27,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2011,218023.98,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2011,113075.59,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2011,120276.42,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2011,113090.41,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2011,2443.06,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2011,274822.33,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2011,120276.42,,Sostinės regionas,Autobusai,tūkst.
+00,k3,tukst,1999,,neraduomenu,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,1999,,neraduomenu,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,1999,,neraduomenu,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,1999,,neraduomenu,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,1999,,neraduomenu,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,1999,111203.2,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,1999,101399.9,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,1999,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,1999,273492.39999999997,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,1999,111203.2,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,1999,,neraduomenu,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,1999,,neraduomenu,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,1999,,neraduomenu,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,1999,,neraduomenu,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,1999,,neraduomenu,Sostinės regionas,Autobusai,tūkst.
+00,k5,tukst,1999,,neraduomenu,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,1999,,neraduomenu,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,1999,,neraduomenu,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,1999,,neraduomenu,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,1999,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+10,k3,tukst,2000,92291.607,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2000,85619.554,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2000,276.195,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2000,258338.46,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2000,92291.607,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,2000,88808.0,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2000,82765.3,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2000,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2000,213349.9,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2000,88808.0,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2000,92291.607,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2000,85619.554,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2000,276.195,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2000,258338.46,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2000,92291.607,,Sostinės regionas,Autobusai,tūkst.
+00,k5,tukst,2000,,neraduomenu,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2000,,neraduomenu,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,2000,,neraduomenu,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2000,,neraduomenu,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2000,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+10,k5,tukst,2006,88674.3,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2006,88674.3,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2006,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k5,tukst,2006,133538.6,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2006,88674.3,,Sostinės regionas,Troleibusai,tūkst.
+10,k41,tukst,2006,120905.25,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2006,115787.5,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2006,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2006,232020.1,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2006,120905.25,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2006,134126.332,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2006,126657.687,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2006,1319.4,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2006,311951.0,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2006,134126.3,,Sostinės regionas,Autobusai,tūkst.
+10,k3,tukst,2006,222800.632,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2006,215331.987,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2006,1319.4,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2006,445489.6,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2006,222800.6,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,2004,100540.9,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2004,94877.4,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+10,k5,tukst,2004,88394.7,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2004,88394.7,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2004,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+41,k41,tukst,2004,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2004,199274.0,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2004,100540.9,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2004,120460.725,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2004,112331.749,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2004,1260.5,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k5,tukst,2004,132249.1,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2004,88394.7,,Sostinės regionas,Troleibusai,tūkst.
+00,k4,tukst,2004,297824.8,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2004,120460.7,,Sostinės regionas,Autobusai,tūkst.
+10,k3,tukst,2004,208855.425,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2004,200726.449,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2004,1260.5,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2004,430073.9,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2004,208855.4,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k5,tukst,2007,95354.7,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2007,95354.7,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2007,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k5,tukst,2007,145410.3,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2007,95354.7,,Sostinės regionas,Troleibusai,tūkst.
+10,k41,tukst,2007,128526.8,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2007,123580.84,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2007,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2007,246656.1,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2007,128526.8,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2007,139753.69,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2007,132335.2,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2007,1877.46,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2007,317920.81,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2007,139753.69,,Sostinės regionas,Autobusai,tūkst.
+10,k3,tukst,2007,235108.39,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2007,227689.9,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2007,1877.46,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2007,463331.11,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2007,235108.39,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k5,tukst,2008,92290.9,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2008,92290.9,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2008,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k5,tukst,2008,151008.5,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2008,92290.9,,Sostinės regionas,Troleibusai,tūkst.
+10,k41,tukst,2008,132249.06,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2008,127411.66,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2008,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2008,251286.22,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2008,132249.06,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2008,143993.76,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2008,135513.08,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2008,2487.92,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2008,317296.19,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2008,143993.76,,Sostinės regionas,Autobusai,tūkst.
+10,k3,tukst,2008,236284.66,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2008,227803.98,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2008,2487.92,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2008,468304.69,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2008,236284.66,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k5,tukst,2009,77617.1,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2009,77617.1,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2009,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k5,tukst,2009,126353.3,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2009,77617.1,,Sostinės regionas,Troleibusai,tūkst.
+10,k41,tukst,2009,109249.07,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2009,105286.85,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2009,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2009,214725.08999999997,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2009,109249.07,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2009,115808.01,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2009,109067.7,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2009,1902.24,,Vilniaus r. sav.,Autobusai,tūkst.
+10,k3,tukst,2009,193425.11,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2009,186684.8,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2009,1902.24,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2009,392695.36,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+00,k4,tukst,2009,266342.06,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2009,115808.01,,Sostinės regionas,Autobusai,tūkst.
+LT01,k3,tukst,2009,193425.11,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,1995,94100.0,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,1995,83900.0,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,1995,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,1995,405700.0,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,1995,94100.0,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,1995,,neraduomenu,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,1995,,neraduomenu,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,1995,,neraduomenu,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,1995,,neraduomenu,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,1995,,neraduomenu,Sostinės regionas,Autobusai,tūkst.
+00,k5,tukst,1995,,neraduomenu,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,1995,,neraduomenu,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,1995,,neraduomenu,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,1995,,neraduomenu,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,1995,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k3,tukst,1995,,neraduomenu,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,1995,,neraduomenu,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,1995,,neraduomenu,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,1995,,neraduomenu,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,1995,,neraduomenu,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,1993,129400.0,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,1993,114900.0,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,1993,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,1993,509100.0,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,1993,129400.0,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,1993,,neraduomenu,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,1993,,neraduomenu,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,1993,,neraduomenu,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,1993,,neraduomenu,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,1993,,neraduomenu,Sostinės regionas,Autobusai,tūkst.
+00,k5,tukst,1993,,neraduomenu,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,1993,,neraduomenu,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,1993,,neraduomenu,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,1993,,neraduomenu,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,1993,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k3,tukst,1993,,neraduomenu,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,1993,,neraduomenu,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,1993,,neraduomenu,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,1993,,neraduomenu,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,1993,,neraduomenu,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+10,k5,tukst,2012,73558.9,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2012,73558.9,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2012,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k5,tukst,2012,112402.5,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2012,73558.9,,Sostinės regionas,Troleibusai,tūkst.
+10,k3,tukst,2012,194512.06,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2012,187628.57,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2012,1924.5,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2012,387533.27,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2012,194512.06,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,2012,114495.87,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2012,109397.74,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2012,718.51,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2012,218896.3,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2012,114495.87,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2012,120953.16,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2012,114069.67,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2012,1924.5,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2012,275130.77,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2012,120953.16,,Sostinės regionas,Autobusai,tūkst.
+10,k3,tukst,2001,89688.725,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2001,83262.245,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2001,441.7,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2001,240387.267,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2001,89688.725,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,2001,85933.90000000001,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2001,80323.8,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2001,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2001,182099.4,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2001,85933.90000000001,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2001,89688.725,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2001,83262.245,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2001,441.7,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2001,240387.267,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2001,89688.725,,Sostinės regionas,Autobusai,tūkst.
+00,k5,tukst,2001,,neraduomenu,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2001,,neraduomenu,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,2001,,neraduomenu,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2001,,neraduomenu,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2001,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+10,k5,tukst,2005,92517.5,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2005,92517.5,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2005,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k5,tukst,2005,137408.1,,Lietuvos Respublika,Troleibusai,tūkst.
+10,k41,tukst,2005,110692.8,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2005,105328.2,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2005,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+LT01,k5,tukst,2005,92517.5,,Sostinės regionas,Troleibusai,tūkst.
+00,k41,tukst,2005,217561.566,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2005,110692.8,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2005,129067.179,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2005,120840.371,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2005,1467.8,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2005,306010.6,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2005,129067.2,,Sostinės regionas,Autobusai,tūkst.
+10,k3,tukst,2005,221584.679,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2005,213357.871,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2005,1467.8,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2005,443418.6999999999,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2005,221584.7,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,1994,104100.0,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,1994,91900.0,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,1994,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,1994,481100.0,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,1994,104100.0,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,1994,,neraduomenu,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,1994,,neraduomenu,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,1994,,neraduomenu,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,1994,,neraduomenu,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,1994,,neraduomenu,Sostinės regionas,Autobusai,tūkst.
+00,k5,tukst,1994,,neraduomenu,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,1994,,neraduomenu,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,1994,,neraduomenu,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,1994,,neraduomenu,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,1994,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k3,tukst,1994,,neraduomenu,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,1994,,neraduomenu,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,1994,,neraduomenu,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,1994,,neraduomenu,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,1994,,neraduomenu,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,1998,,neraduomenu,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,1998,,neraduomenu,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,1998,,neraduomenu,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,1998,,neraduomenu,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,1998,,neraduomenu,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,1998,115214.3,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,1998,107542.4,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,1998,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,1998,316157.69999999995,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,1998,115214.3,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,1998,,neraduomenu,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,1998,,neraduomenu,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,1998,,neraduomenu,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,1998,,neraduomenu,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,1998,,neraduomenu,Sostinės regionas,Autobusai,tūkst.
+00,k5,tukst,1998,,neraduomenu,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,1998,,neraduomenu,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,1998,,neraduomenu,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,1998,,neraduomenu,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,1998,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+10,k41,tukst,2003,95943.7,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2003,90565.7,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2003,,nebuvo,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+10,k5,tukst,2003,86664.8,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2003,86664.8,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2003,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k41,tukst,2003,194369.5,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2003,95943.7,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2003,113461.485,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2003,105558.005,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2003,959.3,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2003,281836.308,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2003,113461.485,,Sostinės regionas,Autobusai,tūkst.
+00,k5,tukst,2003,130738.7,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2003,86664.9,,Sostinės regionas,Troleibusai,tūkst.
+10,k3,tukst,2003,200126.285,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2003,192222.805,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2003,959.3,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2003,412575.008,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2003,200126.385,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,2014,158998.33,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2014,153441.57,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2014,911.34,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2014,270080.87,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2014,158998.33,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2014,162676.9,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2014,155638.9,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2014,1860.6,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2014,321450.89999999997,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2014,162676.9,,Sostinės regionas,Autobusai,tūkst.
+10,k5,tukst,2014,62426.5,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2014,62426.5,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2014,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k5,tukst,2014,97523.0,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2014,62426.5,,Sostinės regionas,Troleibusai,tūkst.
+10,k3,tukst,2014,211858.60000000003,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2014,204423.0,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2014,1744.2,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2014,403580.1,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2014,211858.60000000003,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,2015,148164.92,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2015,143178.31,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2015,1014.62,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2015,261837.11000000007,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2015,148164.92,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2015,152038.72000000006,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2015,145452.15000000002,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2015,1954.21,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2015,300566.67000000004,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2015,152038.72000000006,,Sostinės regionas,Autobusai,tūkst.
+10,k5,tukst,2015,58663.8,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2015,58663.8,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2015,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k5,tukst,2015,93252.5,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2015,58663.8,,Sostinės regionas,Troleibusai,tūkst.
+10,k3,tukst,2015,210702.52000000008,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2015,204115.95,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2015,1954.21,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2015,393819.17,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2015,210702.52000000008,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2016,378880.31,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2016,203239.64999999997,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k41,tukst,2016,144676.7,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2016,139882.97,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2016,962.77,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2016,258748.6,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2016,144676.7,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2016,148536.84999999995,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2016,142043.36,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2016,1945.77,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k4,tukst,2016,291504.91,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2016,148536.84999999995,,Sostinės regionas,Autobusai,tūkst.
+10,k5,tukst,2016,54702.8,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2016,54702.8,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2016,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k5,tukst,2016,87375.40000000001,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2016,54702.8,,Sostinės regionas,Troleibusai,tūkst.
+10,k3,tukst,2016,203239.64999999997,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2016,196746.15999999997,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2016,1945.77,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+41,k5,tukst,2017,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k3,tukst,2017,378103.30999999994,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2017,204120.81,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,2017,204120.81,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2017,197602.32,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2017,1874.15,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k41,tukst,2017,259751.25,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2017,146236.03,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k41,tukst,2017,146236.03,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2017,141476.69,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2017,974.49,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k4,tukst,2017,292243.20999999996,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2017,150034.11,,Sostinės regionas,Autobusai,tūkst.
+10,k4,tukst,2017,150034.11,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2017,143515.62,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2017,1874.15,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k5,tukst,2017,85860.09999999999,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2017,54086.7,,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,2017,54086.7,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2017,54086.7,,Vilniaus m. sav.,Troleibusai,tūkst.
+00,k4,tukst,2018,288684.35,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2018,149503.1,,Sostinės regionas,Autobusai,tūkst.
+10,k4,tukst,2018,149503.1,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2018,142902.77,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2018,1800.25,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k5,tukst,2018,82821.8,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2018,51615.7,,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,2018,51615.7,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2018,51615.7,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2018,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k3,tukst,2018,371506.15,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2018,201118.8,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,2018,201118.8,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2018,194518.46999999997,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2018,1800.25,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k41,tukst,2018,257828.04000000004,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2018,146444.12000000002,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k41,tukst,2018,146444.12000000002,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2018,141410.9,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2018,1041.26,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k4,tukst,2019,289462.64,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2019,153235.68999999997,,Sostinės regionas,Autobusai,tūkst.
+10,k4,tukst,2019,153235.68999999997,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2019,147199.97999999998,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2019,1733.87,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k5,tukst,2019,82777.5,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2019,51475.3,,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,2019,51475.3,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2019,51475.3,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2019,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k3,tukst,2019,372240.14,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2019,204710.99,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,2019,204710.99,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2019,198675.27999999997,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2019,1733.87,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k41,tukst,2019,262306.04,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2019,150166.8,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k41,tukst,2019,150166.8,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2019,145310.35,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2019,1022.75,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k4,tukst,2020,182371.06499999992,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2020,109455.79799999994,,Sostinės regionas,Autobusai,tūkst.
+10,k4,tukst,2020,109455.79799999994,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2020,105383.89999999997,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2020,1191.808,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k5,tukst,2020,47358.259999999995,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2020,36007.1,,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,2020,36007.1,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2020,36007.1,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2020,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k3,tukst,2020,229729.32499999995,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2020,145462.89799999993,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,2020,145462.89799999993,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2020,141390.99999999997,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2020,1191.808,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k41,tukst,2020,165442.94000000003,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2020,107644.54,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k41,tukst,2020,107644.54,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2020,104528.11,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2020,627.8,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k4,tukst,2021,162239.0039999998,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2021,95824.495,,Sostinės regionas,Autobusai,tūkst.
+10,k4,tukst,2021,95824.495,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2021,92814.425,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2021,1131.74,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k5,tukst,2021,39225.96,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2021,28781.5,,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,2021,28781.5,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2021,28781.5,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2021,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k3,tukst,2021,201464.9639999998,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2021,124605.995,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,2021,124605.995,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2021,121595.925,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2021,1131.74,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k41,tukst,2021,147128.0510000001,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2021,94152.43,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k41,tukst,2021,94152.43,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2021,91915.34,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2021,599.24,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k4,tukst,2022,240998.38600000012,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2022,138096.73,,Sostinės regionas,Autobusai,tūkst.
+10,k4,tukst,2022,138096.73,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2022,133598.71999999986,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2022,1924.48,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k5,tukst,2022,59219.43000000001,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2022,43545.3,,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,2022,43545.3,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2022,43545.3,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2022,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k3,tukst,2022,300217.8160000001,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2022,181642.03000000003,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,2022,181642.03000000003,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2022,177144.01999999984,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2022,1924.48,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k41,tukst,2022,218107.89000000013,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2022,135621.80000000005,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k41,tukst,2022,135621.80000000005,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2022,132678.53,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2022,729.12,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k4,tukst,2023,255182.69,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k4,tukst,2023,148730.29,,Sostinės regionas,Autobusai,tūkst.
+10,k4,tukst,2023,148730.29,,Vilniaus apskritis,Autobusai,tūkst.
+13,k4,tukst,2023,144820.67,,Vilniaus m. sav.,Autobusai,tūkst.
+41,k4,tukst,2023,1228.19,,Vilniaus r. sav.,Autobusai,tūkst.
+00,k5,tukst,2023,65441.17,,Lietuvos Respublika,Troleibusai,tūkst.
+LT01,k5,tukst,2023,47168.0,,Sostinės regionas,Troleibusai,tūkst.
+10,k5,tukst,2023,47168.0,,Vilniaus apskritis,Troleibusai,tūkst.
+13,k5,tukst,2023,47168.0,,Vilniaus m. sav.,Troleibusai,tūkst.
+41,k5,tukst,2023,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+00,k3,tukst,2023,320623.86,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2023,195898.29,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+10,k3,tukst,2023,195898.29,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2023,191988.67,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2023,1228.19,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+00,k41,tukst,2023,231756.16999999993,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+LT01,k41,tukst,2023,146981.08000000002,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+10,k41,tukst,2023,146981.08000000002,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2023,143777.28,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2023,1099.64,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+00,k41,tukst,2024,246795.59,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2024,161591.84,,Vilniaus apskritis,Autobusai,tūkst.
+00,k4,tukst,2024,269648.96,,Lietuvos Respublika,Autobusai,tūkst.
+13,k5,tukst,2024,47792.3,,Vilniaus m. sav.,Troleibusai,tūkst.
+LT01,k41,tukst,2024,160047.09,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+00,k5,tukst,2024,66472.84,,Lietuvos Respublika,Troleibusai,tūkst.
+10,k41,tukst,2024,160047.09,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2024,156903.57,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2024,1019.5,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+10,k3,tukst,2024,209384.14,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2024,1117.4,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2024,209384.14,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2024,205508.22,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2024,336121.8,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k4,tukst,2024,161591.84,,Sostinės regionas,Autobusai,tūkst.
+41,k4,tukst,2024,1117.4,,Vilniaus r. sav.,Autobusai,tūkst.
+10,k5,tukst,2024,47792.3,,Vilniaus apskritis,Troleibusai,tūkst.
+LT01,k5,tukst,2024,47792.3,,Sostinės regionas,Troleibusai,tūkst.
+41,k5,tukst,2024,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+13,k4,tukst,2024,157715.92,,Vilniaus m. sav.,Autobusai,tūkst.
+00,k41,tukst,2025,261152.72,,Lietuvos Respublika,Autobusų parkų autobusai,tūkst.
+10,k4,tukst,2025,175435.9500000001,,Vilniaus apskritis,Autobusai,tūkst.
+00,k4,tukst,2025,281030.9600000001,,Lietuvos Respublika,Autobusai,tūkst.
+LT01,k41,tukst,2025,173823.92,,Sostinės regionas,Autobusų parkų autobusai,tūkst.
+00,k5,tukst,2025,70728.11,,Lietuvos Respublika,Troleibusai,tūkst.
+10,k41,tukst,2025,173823.92,,Vilniaus apskritis,Autobusų parkų autobusai,tūkst.
+13,k41,tukst,2025,170790.6,,Vilniaus m. sav.,Autobusų parkų autobusai,tūkst.
+41,k41,tukst,2025,959.29,,Vilniaus r. sav.,Autobusų parkų autobusai,tūkst.
+10,k3,tukst,2025,227149.5500000001,,Vilniaus apskritis,Autobusai ir troleibusai,tūkst.
+41,k3,tukst,2025,1063.56,,Vilniaus r. sav.,Autobusai ir troleibusai,tūkst.
+LT01,k3,tukst,2025,227149.5500000001,,Sostinės regionas,Autobusai ir troleibusai,tūkst.
+13,k3,tukst,2025,223343.8700000001,,Vilniaus m. sav.,Autobusai ir troleibusai,tūkst.
+00,k3,tukst,2025,351759.0700000001,,Lietuvos Respublika,Autobusai ir troleibusai,tūkst.
+LT01,k4,tukst,2025,175435.9500000001,,Sostinės regionas,Autobusai,tūkst.
+41,k4,tukst,2025,1063.56,,Vilniaus r. sav.,Autobusai,tūkst.
+10,k5,tukst,2025,51713.6,,Vilniaus apskritis,Troleibusai,tūkst.
+LT01,k5,tukst,2025,51713.6,,Sostinės regionas,Troleibusai,tūkst.
+41,k5,tukst,2025,,neskaiciuojamas,Vilniaus r. sav.,Troleibusai,tūkst.
+13,k4,tukst,2025,171630.27,,Vilniaus m. sav.,Autobusai,tūkst.
+13,k5,tukst,2025,51713.6,,Vilniaus m. sav.,Troleibusai,tūkst.

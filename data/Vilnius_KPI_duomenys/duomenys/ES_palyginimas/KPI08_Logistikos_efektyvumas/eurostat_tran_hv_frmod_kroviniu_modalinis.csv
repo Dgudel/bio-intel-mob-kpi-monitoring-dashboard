@@ -1,0 +1,81 @@
+﻿freq,unit,unit_label,tra_mode,tra_mode_label,geo,geo_label,time,value,status
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2005,7.1,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2006,6.9,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2007,7.0,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2008,7.0,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2009,6.7,
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2010,7.4,
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2011,6.8,
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2012,7.4,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2013,7.4,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2014,7.2,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2015,6.9,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2016,6.7,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2017,6.4,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2018,5.8,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2019,6.0,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2020,5.8,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2021,5.6,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2022,5.1,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2023,5.0,e
+A,PC,Percentage,IWW,Inland waterways,EU27_2020,European Union - 27 countries (from 2020),2024,5.2,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2005,18.5,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2006,18.9,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2007,18.8,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2008,18.7,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2009,17.3,
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2010,18.0,
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2011,19.2,
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2012,19.1,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2013,18.7,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2014,18.8,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2015,18.9,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2016,19.1,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2017,18.5,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2018,18.9,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2019,18.0,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2020,17.1,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2021,17.4,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2022,17.5,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2023,16.9,e
+A,PC,Percentage,RAIL,Railways,EU27_2020,European Union - 27 countries (from 2020),2024,16.6,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2005,25.6,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2006,25.7,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2007,25.8,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2008,25.7,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2009,23.9,
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2010,25.4,
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2011,26.0,
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2012,26.5,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2013,26.1,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2014,26.1,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2015,25.9,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2016,25.8,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2017,25.0,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2018,24.7,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2019,24.0,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2020,22.9,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2021,23.0,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2022,22.6,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2023,21.9,e
+A,PC,Percentage,RAIL_IWW_AVD,"Railways, inland waterways - sum of available data",EU27_2020,European Union - 27 countries (from 2020),2024,21.8,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2005,74.4,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2006,74.3,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2007,74.2,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2008,74.3,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2009,76.1,
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2010,74.6,
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2011,74.0,
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2012,73.5,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2013,73.9,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2014,73.9,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2015,74.1,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2016,74.2,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2017,75.0,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2018,75.3,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2019,76.0,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2020,77.1,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2021,77.0,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2022,77.4,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2023,78.1,e
+A,PC,Percentage,ROAD,Roads,EU27_2020,European Union - 27 countries (from 2020),2024,78.2,e

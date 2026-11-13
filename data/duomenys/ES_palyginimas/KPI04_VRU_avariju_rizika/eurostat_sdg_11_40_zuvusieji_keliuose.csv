@@ -1,0 +1,251 @@
+﻿freq,tra_infr,tra_infr_label,unit,unit_label,geo,geo_label,time,value,status
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2000,3470.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2001,4072.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2002,4155.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2003,3891.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2004,3369.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2005,3137.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2006,3090.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2007,2924.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2008,2435.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2009,2352.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2010,2205.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2011,2043.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2012,1831.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2013,1864.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2014,1767.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2015,1926.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2016,1920.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2017,1977.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2018,2020.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2019,1939.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2020,1476.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2021,1764.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2022,1890.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2023,1726.0,
+A,MWAY,Motorways,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2024,1693.0,
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2000,0.8,be
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2001,0.9,b
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2002,1.0,
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2003,0.9,
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2004,0.8,
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2005,0.7,
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2006,0.7,
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2007,0.7,b
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2008,0.6,b
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2009,0.5,
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2010,0.5,b
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2011,0.5,b
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2012,0.4,b
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2013,0.4,be
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2014,0.4,be
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2015,0.4,e
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2016,0.4,e
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2017,0.4,be
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2018,0.5,e
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2019,0.4,e
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2020,0.3,be
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2021,0.4,be
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2022,0.4,be
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2023,0.4,bep
+A,MWAY,Motorways,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2024,0.4,ep
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2000,27992.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2001,26107.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2002,25592.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2003,25031.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2004,23527.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2005,22212.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2006,21046.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2007,21176.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2008,19817.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2009,17754.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2010,15844.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2011,15271.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2012,14028.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2013,12599.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2014,12606.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2015,12888.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2016,12760.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2017,12424.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2018,12358.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2019,11978.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2020,9885.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2021,10450.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2022,10868.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2023,10789.0,
+A,RD_RUR,Rural roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2024,10629.0,
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2000,6.5,be
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2001,6.1,b
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2002,5.9,
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2003,5.8,
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2004,5.4,
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2005,5.1,
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2006,4.8,
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2007,4.8,b
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2008,4.5,b
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2009,4.0,
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2010,3.6,b
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2011,3.5,b
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2012,3.2,b
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2013,2.9,be
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2014,2.8,be
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2015,2.9,e
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2016,2.9,e
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2017,2.8,be
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2018,2.8,e
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2019,2.7,e
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2020,2.2,be
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2021,2.3,be
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2022,2.4,be
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2023,2.4,bep
+A,RD_RUR,Rural roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2024,2.4,ep
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2000,16920.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2001,16707.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2002,16073.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2003,15302.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2004,15017.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2005,14920.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2006,13863.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2007,14242.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2008,14176.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2009,12535.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2010,11208.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2011,10779.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2012,9857.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2013,9130.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2014,9112.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2015,8891.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2016,9101.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2017,8982.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2018,8938.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2019,8809.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2020,7454.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2021,7699.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2022,7895.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2023,7869.0,
+A,RD_URB,Urban roads,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2024,7604.0,
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2000,3.9,be
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2001,3.9,b
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2002,3.7,
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2003,3.5,
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2004,3.5,
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2005,3.4,
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2006,3.2,
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2007,3.2,b
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2008,3.2,b
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2009,2.8,
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2010,2.5,b
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2011,2.4,b
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2012,2.2,b
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2013,2.1,be
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2014,2.1,be
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2015,2.0,e
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2016,2.0,e
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2017,2.0,be
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2018,2.0,e
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2019,2.0,e
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2020,1.7,be
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2021,1.7,be
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2022,1.8,be
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2023,1.8,bep
+A,RD_URB,Urban roads,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2024,1.7,ep
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2000,53482.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2001,51360.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2002,50425.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2003,47404.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2004,44527.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2005,42607.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2006,40420.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2007,40091.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2008,36932.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2009,33022.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2010,29611.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2011,28748.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2012,26500.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2013,24226.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2014,24136.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2015,24358.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2016,23808.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2017,23392.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2018,23327.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2019,22757.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2020,18830.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2021,19916.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2022,20654.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2023,20386.0,
+A,TOTAL,Total,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2024,19933.0,
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2000,12.5,be
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2001,12.0,b
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2002,11.7,
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2003,11.0,
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2004,10.3,
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2005,9.8,
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2006,9.3,
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2007,9.1,b
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2008,8.4,b
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2009,7.5,
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2010,6.7,b
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2011,6.5,b
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2012,6.0,b
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2013,5.5,be
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2014,5.5,be
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2015,5.5,e
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2016,5.4,e
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2017,5.3,be
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2018,5.2,e
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2019,5.1,e
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2020,4.2,be
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2021,4.5,be
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2022,4.6,be
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2023,4.5,bep
+A,TOTAL,Total,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2024,4.4,ep
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2000,5101.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2001,4474.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2002,4604.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2003,3180.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2004,2614.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2005,2338.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2006,2421.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2007,1749.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2008,504.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2009,381.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2010,354.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2011,655.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2012,785.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2013,633.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2014,651.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2015,653.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2016,27.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2017,9.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2018,11.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2019,31.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2020,15.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2021,3.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2022,1.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2023,2.0,
+A,UNK,Unknown,NR,Number,EU27_2020,European Union - 27 countries (from 2020),2024,7.0,
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2000,1.2,be
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2001,1.0,b
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2002,1.1,
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2003,0.7,
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2004,0.6,
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2005,0.5,
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2006,0.6,
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2007,0.4,b
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2008,0.1,b
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2009,0.1,
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2010,0.1,b
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2011,0.1,b
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2012,0.2,b
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2013,0.1,be
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2014,0.1,be
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2015,0.1,e
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2016,0.0,e
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2017,0.0,be
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2018,0.0,e
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2019,0.0,e
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2020,0.0,be
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2021,0.0,be
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2022,0.0,be
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2023,0.0,bep
+A,UNK,Unknown,RT,Rate,EU27_2020,European Union - 27 countries (from 2020),2024,0.0,ep
