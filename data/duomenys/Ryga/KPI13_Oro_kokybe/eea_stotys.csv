@@ -1,6 +1,6 @@
 ﻿Air Quality Station EoI Code,Air Quality Station Name,Sampling Point Id,Air Pollutant,Longitude,Latitude,Air Quality Station Area,Air Quality Station Type,Operational Activity Begin,Operational Activity End,Year
-LV0003A,Riga Kengarags-2,SPO-LV0RKE2_00008_500,NO2,24.15651,56.93593,urban,background,01/11/1997 00:00:00,01/01/2022 00:00:00,2025.0
 LV0019A,Riga Park,SPO-LV00RP5_00008_100,NO2,24.11587,56.95061,urban,background,15/03/2003 00:00:00,01/01/2022 00:00:00,2025.0
+LV0003A,Riga Kengarags-2,SPO-LV0RKE2_00008_500,NO2,24.15651,56.93593,urban,background,01/11/1997 00:00:00,01/01/2022 00:00:00,2025.0
 LV0026A,Riga Kronvalda boulevard,SPO-LV0RKR9_00005_101,PM10,24.10476,56.95485,urban,background,01/01/2022 00:00:00,,2025.0
 LV0026A,Riga Kronvalda boulevard,SPO-LV0RKR9_00008_100,NO2,24.10476,56.95485,urban,background,01/01/2022 00:00:00,,2025.0
 LV0026A,Riga Kronvalda boulevard,SPO-LV0RKR9_06001_101,PM2.5,24.10476,56.95485,urban,background,01/01/2022 00:00:00,,2025.0
