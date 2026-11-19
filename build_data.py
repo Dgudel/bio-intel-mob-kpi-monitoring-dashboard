@@ -330,7 +330,7 @@ K = [
  (7, 'Reduction in logistics packaging waste', -25, '25 % reduction', 'Environmental / circular economy', 'Obj. 3 (bioPLU)',
   'TBD', 'Packaging mass by material before vs after bioPLU deployment; operator records, LCA.', 'pending'),
  (8, 'Increase in logistics efficiency', 20, '+20 % (Obj. 3 states 35 %)', 'Economic / logistics', 'Obj. 3',
-  'TBD', 'Delivery delays, time and cost per delivery from operators.', 'pending'),
+  'TBD', 'Delivery delays, time and cost per delivery from operators.', 'proxy'),  # 17 Nov 2026: national road-share context series shown -> proxy
  (9, 'Reduction in peri-urban congestion', -30, '30 % reduction', 'Mobility', 'Obj. 2; p. 21',
   'Real-time traffic monitoring / TomTom index (TBD)', 'Travel time, average speed, queue length and flows on the same corridors before vs after (S7 counters, cameras, navigation data).', 'pending'),
  (10, 'Reduction in annual economic losses from congestion', -30, '30 % reduction', 'Economic', 'Expected impacts',
