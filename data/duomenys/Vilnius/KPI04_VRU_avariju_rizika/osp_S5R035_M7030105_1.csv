@@ -201,7 +201,7 @@
 00,neblaiv_vair_kalt,vienetai_units,2025M08,12.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
 00,neblaiv_vair_kalt,vienetai_units,2025M09,13.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
 00,neblaiv_vair_kalt,vienetai_units,2025M10,11.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
-00,neblaiv_vair_kalt,vienetai_units,2025M11,6.0,patikslinti,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
+00,neblaiv_vair_kalt,vienetai_units,2025M11,6.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
 00,neblaiv_vair_kalt,vienetai_units,2025M12,6.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
 00,neblaiv_vair_kalt,vienetai_units,2026M01,8.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
 00,neblaiv_vair_kalt,vienetai_units,2026M02,6.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
@@ -210,8 +210,9 @@
 00,neblaiv_vair_kalt,vienetai_units,2026M05,15.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
 00,neblaiv_vair_kalt,vienetai_units,2026M06,11.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
 00,neblaiv_vair_kalt,vienetai_units,2026M07,19.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
-00,neblaiv_vair_kalt,vienetai_units,2026M08,12.0,patikslinti,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
-00,neblaiv_vair_kalt,vienetai_units,2026M09,7.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
+00,neblaiv_vair_kalt,vienetai_units,2026M08,12.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
+00,neblaiv_vair_kalt,vienetai_units,2026M09,6.0,patikslinti,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
+00,neblaiv_vair_kalt,vienetai_units,2026M10,13.0,,Lietuvos Respublika,Dėl neblaivių vairuotojų kaltės,vnt.
 00,visi_kel_ivyk,vienetai_units,2009M01,262.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
 00,visi_kel_ivyk,vienetai_units,2009M02,247.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
 00,visi_kel_ivyk,vienetai_units,2009M03,216.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
@@ -414,17 +415,18 @@
 00,visi_kel_ivyk,vienetai_units,2025M08,288.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
 00,visi_kel_ivyk,vienetai_units,2025M09,310.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
 00,visi_kel_ivyk,vienetai_units,2025M10,252.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
-00,visi_kel_ivyk,vienetai_units,2025M11,200.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
-00,visi_kel_ivyk,vienetai_units,2025M12,204.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
+00,visi_kel_ivyk,vienetai_units,2025M11,200.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
+00,visi_kel_ivyk,vienetai_units,2025M12,204.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
 00,visi_kel_ivyk,vienetai_units,2026M01,156.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
-00,visi_kel_ivyk,vienetai_units,2026M02,115.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
-00,visi_kel_ivyk,vienetai_units,2026M03,165.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
-00,visi_kel_ivyk,vienetai_units,2026M04,191.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
-00,visi_kel_ivyk,vienetai_units,2026M05,299.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
-00,visi_kel_ivyk,vienetai_units,2026M06,310.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
-00,visi_kel_ivyk,vienetai_units,2026M07,328.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
-00,visi_kel_ivyk,vienetai_units,2026M08,326.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
-00,visi_kel_ivyk,vienetai_units,2026M09,304.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
+00,visi_kel_ivyk,vienetai_units,2026M02,115.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
+00,visi_kel_ivyk,vienetai_units,2026M03,163.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
+00,visi_kel_ivyk,vienetai_units,2026M04,192.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
+00,visi_kel_ivyk,vienetai_units,2026M05,300.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
+00,visi_kel_ivyk,vienetai_units,2026M06,304.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
+00,visi_kel_ivyk,vienetai_units,2026M07,318.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
+00,visi_kel_ivyk,vienetai_units,2026M08,313.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
+00,visi_kel_ivyk,vienetai_units,2026M09,279.0,patikslinti,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
+00,visi_kel_ivyk,vienetai_units,2026M10,301.0,,Lietuvos Respublika,Visi kelių eismo įvykiai,vnt.
 10,neblaiv_vair_kalt,vienetai_units,2009M01,2.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
 10,neblaiv_vair_kalt,vienetai_units,2009M02,4.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
 10,neblaiv_vair_kalt,vienetai_units,2009M03,6.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
@@ -627,7 +629,7 @@
 10,neblaiv_vair_kalt,vienetai_units,2025M08,3.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
 10,neblaiv_vair_kalt,vienetai_units,2025M09,5.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
 10,neblaiv_vair_kalt,vienetai_units,2025M10,5.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
-10,neblaiv_vair_kalt,vienetai_units,2025M11,2.0,patikslinti,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
+10,neblaiv_vair_kalt,vienetai_units,2025M11,2.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
 10,neblaiv_vair_kalt,vienetai_units,2025M12,2.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
 10,neblaiv_vair_kalt,vienetai_units,2026M01,3.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
 10,neblaiv_vair_kalt,vienetai_units,2026M02,2.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
@@ -637,7 +639,8 @@
 10,neblaiv_vair_kalt,vienetai_units,2026M06,3.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
 10,neblaiv_vair_kalt,vienetai_units,2026M07,4.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
 10,neblaiv_vair_kalt,vienetai_units,2026M08,3.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
-10,neblaiv_vair_kalt,vienetai_units,2026M09,3.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
+10,neblaiv_vair_kalt,vienetai_units,2026M09,2.0,patikslinti,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
+10,neblaiv_vair_kalt,vienetai_units,2026M10,6.0,,Vilniaus apskritis,Dėl neblaivių vairuotojų kaltės,vnt.
 10,visi_kel_ivyk,vienetai_units,2009M01,54.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
 10,visi_kel_ivyk,vienetai_units,2009M02,48.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
 10,visi_kel_ivyk,vienetai_units,2009M03,47.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
@@ -840,17 +843,18 @@
 10,visi_kel_ivyk,vienetai_units,2025M08,77.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
 10,visi_kel_ivyk,vienetai_units,2025M09,100.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
 10,visi_kel_ivyk,vienetai_units,2025M10,87.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
-10,visi_kel_ivyk,vienetai_units,2025M11,69.0,patikslinti,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
+10,visi_kel_ivyk,vienetai_units,2025M11,69.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
 10,visi_kel_ivyk,vienetai_units,2025M12,60.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
 10,visi_kel_ivyk,vienetai_units,2026M01,46.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
 10,visi_kel_ivyk,vienetai_units,2026M02,32.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
 10,visi_kel_ivyk,vienetai_units,2026M03,65.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
 10,visi_kel_ivyk,vienetai_units,2026M04,74.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
 10,visi_kel_ivyk,vienetai_units,2026M05,86.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
-10,visi_kel_ivyk,vienetai_units,2026M06,99.0,patikslinti,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
-10,visi_kel_ivyk,vienetai_units,2026M07,83.0,patikslinti,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
-10,visi_kel_ivyk,vienetai_units,2026M08,105.0,patikslinti,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
-10,visi_kel_ivyk,vienetai_units,2026M09,94.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
+10,visi_kel_ivyk,vienetai_units,2026M06,100.0,patikslinti,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
+10,visi_kel_ivyk,vienetai_units,2026M07,82.0,patikslinti,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
+10,visi_kel_ivyk,vienetai_units,2026M08,102.0,patikslinti,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
+10,visi_kel_ivyk,vienetai_units,2026M09,87.0,patikslinti,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
+10,visi_kel_ivyk,vienetai_units,2026M10,103.0,,Vilniaus apskritis,Visi kelių eismo įvykiai,vnt.
 13,neblaiv_vair_kalt,vienetai_units,2009M01,1.0,,Vilniaus m. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 13,neblaiv_vair_kalt,vienetai_units,2009M02,3.0,,Vilniaus m. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 13,neblaiv_vair_kalt,vienetai_units,2009M03,3.0,,Vilniaus m. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
@@ -1063,7 +1067,8 @@
 13,neblaiv_vair_kalt,vienetai_units,2026M06,1.0,,Vilniaus m. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 13,neblaiv_vair_kalt,vienetai_units,2026M07,3.0,,Vilniaus m. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 13,neblaiv_vair_kalt,vienetai_units,2026M08,,nebuvo,Vilniaus m. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
-13,neblaiv_vair_kalt,vienetai_units,2026M09,3.0,,Vilniaus m. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
+13,neblaiv_vair_kalt,vienetai_units,2026M09,2.0,patikslinti,Vilniaus m. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
+13,neblaiv_vair_kalt,vienetai_units,2026M10,4.0,,Vilniaus m. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 13,visi_kel_ivyk,vienetai_units,2009M01,40.0,,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
 13,visi_kel_ivyk,vienetai_units,2009M02,35.0,,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
 13,visi_kel_ivyk,vienetai_units,2009M03,36.0,,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
@@ -1273,10 +1278,11 @@
 13,visi_kel_ivyk,vienetai_units,2026M03,48.0,,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
 13,visi_kel_ivyk,vienetai_units,2026M04,52.0,,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
 13,visi_kel_ivyk,vienetai_units,2026M05,55.0,,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
-13,visi_kel_ivyk,vienetai_units,2026M06,67.0,patikslinti,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
-13,visi_kel_ivyk,vienetai_units,2026M07,59.0,patikslinti,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
-13,visi_kel_ivyk,vienetai_units,2026M08,67.0,patikslinti,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
-13,visi_kel_ivyk,vienetai_units,2026M09,71.0,,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
+13,visi_kel_ivyk,vienetai_units,2026M06,68.0,patikslinti,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
+13,visi_kel_ivyk,vienetai_units,2026M07,58.0,patikslinti,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
+13,visi_kel_ivyk,vienetai_units,2026M08,64.0,patikslinti,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
+13,visi_kel_ivyk,vienetai_units,2026M09,65.0,patikslinti,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
+13,visi_kel_ivyk,vienetai_units,2026M10,82.0,,Vilniaus m. sav.,Visi kelių eismo įvykiai,vnt.
 41,neblaiv_vair_kalt,vienetai_units,2009M01,,nebuvo,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 41,neblaiv_vair_kalt,vienetai_units,2009M02,,nebuvo,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 41,neblaiv_vair_kalt,vienetai_units,2009M03,,nebuvo,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
@@ -1479,7 +1485,7 @@
 41,neblaiv_vair_kalt,vienetai_units,2025M08,1.0,,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 41,neblaiv_vair_kalt,vienetai_units,2025M09,2.0,,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 41,neblaiv_vair_kalt,vienetai_units,2025M10,1.0,,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
-41,neblaiv_vair_kalt,vienetai_units,2025M11,1.0,patikslinti,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
+41,neblaiv_vair_kalt,vienetai_units,2025M11,1.0,,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 41,neblaiv_vair_kalt,vienetai_units,2025M12,2.0,,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 41,neblaiv_vair_kalt,vienetai_units,2026M01,1.0,,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 41,neblaiv_vair_kalt,vienetai_units,2026M02,1.0,,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
@@ -1490,6 +1496,7 @@
 41,neblaiv_vair_kalt,vienetai_units,2026M07,,nebuvo,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 41,neblaiv_vair_kalt,vienetai_units,2026M08,,nebuvo,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 41,neblaiv_vair_kalt,vienetai_units,2026M09,,nebuvo,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
+41,neblaiv_vair_kalt,vienetai_units,2026M10,1.0,,Vilniaus r. sav.,Dėl neblaivių vairuotojų kaltės,vnt.
 41,visi_kel_ivyk,vienetai_units,2009M01,3.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
 41,visi_kel_ivyk,vienetai_units,2009M02,1.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
 41,visi_kel_ivyk,vienetai_units,2009M03,,nebuvo,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
@@ -1692,7 +1699,7 @@
 41,visi_kel_ivyk,vienetai_units,2025M08,9.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
 41,visi_kel_ivyk,vienetai_units,2025M09,15.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
 41,visi_kel_ivyk,vienetai_units,2025M10,12.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
-41,visi_kel_ivyk,vienetai_units,2025M11,8.0,patikslinti,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
+41,visi_kel_ivyk,vienetai_units,2025M11,8.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
 41,visi_kel_ivyk,vienetai_units,2025M12,7.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
 41,visi_kel_ivyk,vienetai_units,2026M01,8.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
 41,visi_kel_ivyk,vienetai_units,2026M02,6.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
@@ -1701,8 +1708,9 @@
 41,visi_kel_ivyk,vienetai_units,2026M05,12.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
 41,visi_kel_ivyk,vienetai_units,2026M06,14.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
 41,visi_kel_ivyk,vienetai_units,2026M07,8.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
-41,visi_kel_ivyk,vienetai_units,2026M08,13.0,patikslinti,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
-41,visi_kel_ivyk,vienetai_units,2026M09,11.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
+41,visi_kel_ivyk,vienetai_units,2026M08,13.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
+41,visi_kel_ivyk,vienetai_units,2026M09,10.0,patikslinti,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
+41,visi_kel_ivyk,vienetai_units,2026M10,10.0,,Vilniaus r. sav.,Visi kelių eismo įvykiai,vnt.
 LT01,neblaiv_vair_kalt,vienetai_units,2009M01,2.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
 LT01,neblaiv_vair_kalt,vienetai_units,2009M02,4.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
 LT01,neblaiv_vair_kalt,vienetai_units,2009M03,6.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
@@ -1904,7 +1912,7 @@ LT01,neblaiv_vair_kalt,vienetai_units,2025M07,5.0,,Sostinės regionas,Dėl nebla
 LT01,neblaiv_vair_kalt,vienetai_units,2025M08,3.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
 LT01,neblaiv_vair_kalt,vienetai_units,2025M09,5.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
 LT01,neblaiv_vair_kalt,vienetai_units,2025M10,5.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
-LT01,neblaiv_vair_kalt,vienetai_units,2025M11,2.0,patikslinti,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
+LT01,neblaiv_vair_kalt,vienetai_units,2025M11,2.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
 LT01,neblaiv_vair_kalt,vienetai_units,2025M12,2.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
 LT01,neblaiv_vair_kalt,vienetai_units,2026M01,3.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
 LT01,neblaiv_vair_kalt,vienetai_units,2026M02,2.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
@@ -1914,7 +1922,8 @@ LT01,neblaiv_vair_kalt,vienetai_units,2026M05,6.0,,Sostinės regionas,Dėl nebla
 LT01,neblaiv_vair_kalt,vienetai_units,2026M06,3.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
 LT01,neblaiv_vair_kalt,vienetai_units,2026M07,4.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
 LT01,neblaiv_vair_kalt,vienetai_units,2026M08,3.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
-LT01,neblaiv_vair_kalt,vienetai_units,2026M09,3.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
+LT01,neblaiv_vair_kalt,vienetai_units,2026M09,2.0,patikslinti,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
+LT01,neblaiv_vair_kalt,vienetai_units,2026M10,6.0,,Sostinės regionas,Dėl neblaivių vairuotojų kaltės,vnt.
 LT01,visi_kel_ivyk,vienetai_units,2009M01,54.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
 LT01,visi_kel_ivyk,vienetai_units,2009M02,48.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
 LT01,visi_kel_ivyk,vienetai_units,2009M03,47.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
@@ -2116,14 +2125,15 @@ LT01,visi_kel_ivyk,vienetai_units,2025M07,95.0,,Sostinės regionas,Visi kelių e
 LT01,visi_kel_ivyk,vienetai_units,2025M08,77.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
 LT01,visi_kel_ivyk,vienetai_units,2025M09,100.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
 LT01,visi_kel_ivyk,vienetai_units,2025M10,87.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
-LT01,visi_kel_ivyk,vienetai_units,2025M11,69.0,patikslinti,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
+LT01,visi_kel_ivyk,vienetai_units,2025M11,69.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
 LT01,visi_kel_ivyk,vienetai_units,2025M12,60.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
 LT01,visi_kel_ivyk,vienetai_units,2026M01,46.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
 LT01,visi_kel_ivyk,vienetai_units,2026M02,32.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
 LT01,visi_kel_ivyk,vienetai_units,2026M03,65.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
 LT01,visi_kel_ivyk,vienetai_units,2026M04,74.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
 LT01,visi_kel_ivyk,vienetai_units,2026M05,86.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
-LT01,visi_kel_ivyk,vienetai_units,2026M06,99.0,patikslinti,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
-LT01,visi_kel_ivyk,vienetai_units,2026M07,83.0,patikslinti,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
-LT01,visi_kel_ivyk,vienetai_units,2026M08,105.0,patikslinti,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
-LT01,visi_kel_ivyk,vienetai_units,2026M09,94.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
+LT01,visi_kel_ivyk,vienetai_units,2026M06,100.0,patikslinti,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
+LT01,visi_kel_ivyk,vienetai_units,2026M07,82.0,patikslinti,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
+LT01,visi_kel_ivyk,vienetai_units,2026M08,102.0,patikslinti,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
+LT01,visi_kel_ivyk,vienetai_units,2026M09,87.0,patikslinti,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
+LT01,visi_kel_ivyk,vienetai_units,2026M10,103.0,,Sostinės regionas,Visi kelių eismo įvykiai,vnt.
